@@ -4,7 +4,7 @@ import ProjectSingle from './ProjectSingle.vue';
 let projects = ref([
     {
         name:"Site vitrine du Groupe Scolaire Bilingue Queen-Mary",
-        image:"QM.png",
+        image:"../assets/QM.png",
         tags:"HTML;CSS;JS",
         description:"Lorem ipsum dolor sit amet consectetur, adipisicing elit; Mollitia consequuntur eum voluptatem illum; ad est aliquam quaerat dolorem consectetur dolor a.",
         tasks:"Lorem ipsum dolor sit amet consectetur, adipisicing elit; Mollitia consequuntur eum voluptatem illum; ad est aliquam quaerat dolorem consectetur dolor a."
@@ -59,4 +59,5 @@ let projects = ref([
         display: inline-block;
         margin-top: 60px;
     }
+
 </style>
