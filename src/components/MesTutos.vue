@@ -6,9 +6,9 @@
 <template>
     <div id="tutos">
         <h2 class="text-highlight-1 section-title">Ma formation</h2>
-        <p class="description">Curieux de nature, j'ai toujours vu la formation comme une <span class="text-highlifght-2">aventure</span>. Chaque cours, chaque <span class="text-highlifght-2">projet académique</span> a été une opportunité d'approfondir 
-            ma passion pour le <span class="text-highlifght-2">développement</span> et la <span class="text-highlifght-2">création</span>. Ici, je vous partage les chemins que j'ai empruntés pour acquérir l'expertise qui me permet 
-            aujourd'hui de donner vie à des <span class="text-highlifght-2">idées ambitieuses</span>:
+        <p class="description"><span class="text-highlight-2">Curieux</span> de nature, j'ai toujours vu la formation comme <span class="text-highlight-2">une aventure</span>. Chaque cours, chaque <span class="text-highlight-2">projet académique</span> a été une opportunité d'approfondir 
+            ma passion pour <span class="text-highlight-2">le développement</span> et <span class="text-highlight-2">la création</span>. Ici, je vous partage les chemins que j'ai empruntés pour acquérir l'expertise qui me permet 
+            aujourd'hui de donner vie à des <span class="text-highlight-2">idées ambitieuses</span>:
         </p>
         <br>
         <div id="formations">
@@ -113,3 +113,4 @@
     }
 
 </style>
+
