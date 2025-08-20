@@ -6,12 +6,9 @@
 <template>
     <div id="tutos">
         <h2 class="text-highlight-1 section-title">Ma formation</h2>
-        <p class="description">Comme expliquer precedemment, j'aime <span class="text-highlight-2">partager mes connaissances</span> notament grace a des
-            <span class="text-highlifght-2">tutos video</span>. Pour vivre de ma passion,
-            j'ai cree mon entreprise qui me permet de mettre en vente des <span class="text-highlight-2">formationsvideo</span>. Je tarvailles
-            principalement sur <span class="text-highlifght-2">Udemy</span>, leader du marche.
-            je suis d'ailleurs <span class="text-highlifght-2">partenaire formateur</span> de voici quelques-unes de mes formations :
-
+        <p class="description">Curieux de nature, j'ai toujours vu la formation comme une <span class="text-highlifght-2">aventure</span>. Chaque cours, chaque <span class="text-highlifght-2">projet académique</span> a été une opportunité d'approfondir 
+            ma passion pour le <span class="text-highlifght-2">développement</span> et la <span class="text-highlifght-2">création</span>. Ici, je vous partage les chemins que j'ai empruntés pour acquérir l'expertise qui me permet 
+            aujourd'hui de donner vie à des <span class="text-highlifght-2">idées ambitieuses</span>:
         </p>
         <br>
         <div id="formations">
@@ -114,4 +111,5 @@
             grid-row-gap: 20px;
         }
     }
+
 </style>
