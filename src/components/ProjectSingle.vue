@@ -54,8 +54,8 @@
     <div class="project">
         <div class="left fade-in" :class="reverse ? 'reverse' : ''">
             <h3 class="text-highlight-1">{{ project.name }}</h3>
-            <a :href="`/assets/${ project.image}`" target="_blank">
-                <img :src="`/assets/${ project.image}`" :alt="project.name">
+            <a :href="`../assets/${ project.image}`" target="_blank">
+                <img :src="`../assets/${ project.image}`" :alt="project.name">
             </a>
         </div>
         
@@ -152,3 +152,4 @@
     }
 
 </style>
+
